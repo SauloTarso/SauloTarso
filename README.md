@@ -1,6 +1,6 @@
 ## Olá! Eu sou Saulo de Tarso
 
-- Hoje estou estudando na parte de back-end com linguagem Java | SprinBoot | AWS.
+- Hoje estou estudando na parte de back-end com linguagem C# | Java | SprinBoot | AWS.
 - Contate-me no e-mail: saulotlamorim@gmail.com
 
 <div align="center">
