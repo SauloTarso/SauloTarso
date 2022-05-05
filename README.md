@@ -1,6 +1,6 @@
 ## Olá! Eu sou Saulo de Tarso
 
-- Hoje estou estudando na parte de back-end com linguagem Java | SprinBoot | SQL Server.
+- Hoje estou estudando na parte de back-end com linguagem Java | SprinBoot | MySQL.
 - Contate-me no e-mail: saulotlamorim@gmail.com
 
 <div align="center">
@@ -12,7 +12,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Saulo-Java" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="Saulo-Spring" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-
+  <img align="center" alt="Saulo-MySQL" height="70" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  
   ##
   
   <div> 
