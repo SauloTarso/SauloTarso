@@ -1,6 +1,6 @@
 ## Olá! Eu sou Saulo de Tarso
 
-- Hoje estou estudando na parte de back-end com linguagem Java | SprinBoot | MySQL.
+- Olá, Tudo bem? Meu foco de estudo é em back-end com linguagem Java | SprinBoot | MySQL.
 - Contate-me no e-mail: saulotlamorim@gmail.com
 
 <div align="center">
