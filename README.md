@@ -1,7 +1,7 @@
 ## Olá! Eu sou Saulo de Tarso
 
-- Olá, Tudo bem? Meu foco de estudo é em back-end com linguagem Java | SprinBoot | MySQL.
-- Contate-me no e-mail: saulotlamorim@gmail.com
+- Tudo bem? Meu foco de estudo é em back-end com linguagem Java | SprinBoot | MySQL.
+- Ficou interessado? Segue e-mail: saulotlamorim@gmail.com
 
 <div align="center">
   <a href="https://github.com/SauloTarso">
