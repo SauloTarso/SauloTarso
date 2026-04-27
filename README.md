@@ -1,17 +1,50 @@
-## Olá! Eu sou Saulo de Tarso
+# 👋 Olá, eu sou Saulo de Tarso
 
-- Tudo bem? Meu foco de estudo é em back-end com linguagem Python | IA | MySQL.
-- Ficou interessado? Segue e-mail: saulotlamorim@gmail.com
+🎯 Atualmente em transição de carreira para a área de Tecnologia
+🐍 Estudando **Python com foco em Inteligência Artificial**
+📚 Aprendendo todos os dias e construindo projetos práticos
 
-<div align="center">
-  <a href="https://github.com/SauloTarso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloTarso&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  ##
+---
 
-  <div> 
-  <a href="https://instagram.com/sauloamorim_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:saulotlamorim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/saulo-de-tarso-lopes-de-amorim-590967108" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+## 🚀 Sobre mim
+
+* 💻 Focado em desenvolvimento com **Python**
+* 🤖 Interesse em **IA, Machine Learning e automação**
+* 📈 Buscando minha primeira oportunidade na área de tecnologia
+* 🧠 Aprendizado contínuo com prática e projetos
+
+---
+
+## 📚 O que estou estudando
+
+* Python (fundamentos + avançado)
+* Lógica de programação
+* Estruturas de dados
+* Machine Learning (iniciante)
+* Bibliotecas: NumPy, Pandas, Scikit-learn
+
+---
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00)
+![AI](https://img.shields.io/badge/AI-000000)
+
+---
+
+## 📈 Em construção
+
+🔧 Este perfil está em constante evolução.
+Em breve: projetos práticos de IA, automações e portfólio completo.
+
+---
+
+## 📫 Contato
+
+* LinkedIn: https://www.linkedin.com/in/saulotlamorim/
+* Email: saulotlamorim@gmail.com
+
+---
+
+⭐ Sempre aberto a aprender, colaborar e evoluir.
