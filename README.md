@@ -1,6 +1,6 @@
 ## Olá! Eu sou Saulo de Tarso
 
-- Tudo bem? Meu foco de estudo é em back-end com linguagem Java | SprinBoot | MySQL.
+- Tudo bem? Meu foco de estudo é em back-end com linguagem Python | IA | MySQL.
 - Ficou interessado? Segue e-mail: saulotlamorim@gmail.com
 
 <div align="center">
